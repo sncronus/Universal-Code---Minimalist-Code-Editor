@@ -1,6 +1,7 @@
 # Universal Code - Minimalist Code Editor
-
+![App Icon](b.png)
 ![App Screenshot](a.png)
+
 
 A distraction-free Electron-based code editor designed for focused single-file development. Perfect for quick edits and lightweight coding sessions.
 
