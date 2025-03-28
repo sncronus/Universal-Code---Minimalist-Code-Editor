@@ -11,7 +11,7 @@ A distraction-free Electron-based code editor designed for focused single-file d
 
 ## Installation
 
-1. Download latest release from [Releases page](https://github.com/sncronus/universal-code/releases)
+1. Download latest release from [Releases page](https://github.com/sncronus/Universal-Code---Minimalist-Code-Editor/releases/tag/Universal-Code-%F0%9F%AA%B6)
 2. Run installer
 3. Start coding!
 
